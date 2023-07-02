@@ -1,0 +1,23 @@
+{
+   "customer": {
+    "name":"Saheb",
+    "email":"skbelalsaheb@gmail.com",
+    "address":[{
+        "addressType":"Billing",
+        "doorNo":"N0258",
+        "streetName":"Midnapore",
+        "layout":"WB",
+        "city":"Midnapore",
+        "pincode":"721149"
+    },
+    {
+        "addressType":"shiping",
+        "DoorNo":"N0258",
+        "streetName":"Midnapore",
+        "layout":"WB",
+        "city":"Midnapore",
+        "pincode":"721149"
+    }
+    ]
+}
+}
